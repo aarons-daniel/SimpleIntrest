@@ -1,6 +1,6 @@
 # This is a python program to calculate simple intrest
 ## Input:
-### * Principle
+### *Principle
 ### * Rate
 ### * Intrest
 
