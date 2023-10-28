@@ -3,7 +3,8 @@ def calculate_simple_interest(principal, rate, time):
     return interest
 
 # Take user input
-principal_amount = float(input("Enter the principal amount: "))
+principal_amount = float(input("Enter the pPrinCipaL amount: "))
+print("Teing newq Line blfnbaepjiWFKJ")
 interest_rate = float(input("Enter the interest rate (%): "))
 time_period = float(input("Enter the time period (in years): "))
 
